@@ -17,3 +17,4 @@ This is a comprehensive Python application built during **Week 2** of my interns
 * **Data Structures:** Lists and Dictionaries to store and organize student records.
 * **Error Handling:** Robust validation to ensure data integrity.
 * **Functions:** Modular code structure for reusability.
+<img width="695" height="512" alt="image" src="https://github.com/user-attachments/assets/5f211a66-717a-4b78-8cb6-1b522a69a6be" />
